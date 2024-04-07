@@ -1,17 +1,29 @@
 :root {
-		--line-height: 1.6;
-		--font-size: 17px;
-		--c-bg: lavender;
-		--c-fg: black;
-		--c-link:black;
-		--s: 0.5rem;
-		--s-container: 75rem;
+	--line-height: 1.6;
+	--font-size: 17px;
+	--font-family: "Montserrat", sans-serif;
+	--c-bg: lightcoral;
+	--c-fg: black;
+	--c-link:black;
+	--s: 0.5rem;
+	--s-container: 70rem;
 }
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
 html {
 	color: var(--c-fg);
 	background-color: var(--c-bg);
 	line-height: var(--line-height);
 	font-size: var(--font-size);
+	font-family: var(--font-family);
+	font-optical-sizing: auto;
+	font-weight: normal;
+	font-style: normal;
 	display: flex;
 	flex-direction: column;
 	align-items: center;

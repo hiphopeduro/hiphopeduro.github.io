@@ -40,5 +40,6 @@ a {
 	color: var(--c-link);
 }
 ol {
+	padding: 2rem;
 	background-color: coral;
 }

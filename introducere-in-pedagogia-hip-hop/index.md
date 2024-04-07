@@ -5,7 +5,6 @@
 3. [Metode didactice din pedagogia Hip Hop](metode-didactice.md) Exemple 
 4. Surse de inspiratie pentru acest text
 
-
 In august 2023 Hip Hop-ul a implinit 50 de ani de la aparitia sa si este azi cea mai populara si influenta cultura a tinerilor – pe plan global. Deja aceasta informatie ar trebui sa trezeasca interesul oricarui pedagog care lucreaza cu copiii sau tineri. 
 
 Un alt aspect pentru care Hip Hop-ul mi se pare valoros pentru lumea in care traim este componenta sa democratica. Prin anumite valori, practici si ritualuri, pe care le voi explica in paginile urmatoare, cultura Hip Hop este democratica in esenta ei, dimensiunea sociala – comunitatea – are un rol central: participarea la activitatile comunitatii si propria contributie la comunitate. Tinand cont de acest lucru, sunt convinsa ca ideologia Hip Hop poate fi valorificata in educatie pentru a promova un spirit democratic si solidar in randul copiilor si tinerilor. Intr-o lume in care ura devine tot mai prezenta, aceasta sarcina a educatiei devine cu atat mai importanta.

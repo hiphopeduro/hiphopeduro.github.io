@@ -1,1 +1,3 @@
+# Ideologia culturii Hip Hop si ce valoare are ea pentru educatie si pedagogie?
+
 Hip Hop-ul s-a nascut literalmente pe ruinele cladirilor incendiate din Bronx, un cartier din New York, care la inceputul anilor ’70 se confrunta cu o saracie structurala, criza imobiliara, sociala si multa violenta intre gruparile de tineri rivale (gangs). Cei care au marcat aici aparitia Hip Hop-ului au fost oameni intr-o conditie sociala grea in comparatie cu restul societatii americane si in acelasi timp membri din minoritatile afro-americana si cea latina. In acest context social s-a nascut o miscare culturala care va deveni peste cateva decenii cea mai influenta cultura pentru tineretul din intreaga lume. 

@@ -1,4 +1,5 @@
 :root {
+		--line-height: 1.6;
 		--font-size: 17px;
 		--c-bg: lavender;
 		--c-fg: black;
@@ -9,6 +10,7 @@
 html {
 	color: var(--c-fg);
 	background-color: var(--c-bg);
+	line-height: var(--line-height);
 	font-size: var(--font-size);
 	display: flex;
 	flex-direction: column;
@@ -17,8 +19,8 @@ html {
 
 body {
 	max-width: var(--s-container);
-	margin: 0;
 	padding: var(--s);
+	margin: 0;
 }
 
 a {

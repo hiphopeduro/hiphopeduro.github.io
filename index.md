@@ -1,7 +1,7 @@
 Hello world! This website is under construction
 
 - [Cui i se adreseaza aceasta pagina](about.md)
-- [Introducere in pegagogia hip hop](introducere-in-pedagogia-hip-hop/index.md)
+- [Introducere in pegagogia hip hop](introducere-in-pedagogia-hip-hop)
 - [insta](https://www.instagram.com/hiphopeduro/)
 - [Exemple de proiecte](hip-hop-projects-romania.md)
 - [despre cultura hip hop](ce-este-cultura-hip-hop.md)

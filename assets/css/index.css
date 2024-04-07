@@ -1,7 +1,9 @@
 :root {
 		--font-size: 17px;
-		--c-bg: lightcoral;
-		--c-fg: white;
+		--c-bg: lavender;
+		--c-fg: black;
+		--c-link:black;
+		--s: 0.5rem;
 		--s-container: 75rem;
 }
 html {
@@ -15,4 +17,10 @@ html {
 
 body {
 	max-width: var(--s-container);
+	margin: 0;
+	padding: var(--s);
+}
+
+a {
+	color: var(--c-link);
 }

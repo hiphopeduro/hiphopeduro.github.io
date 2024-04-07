@@ -10,5 +10,5 @@ Am incercat sa scriu un text cat de scurt posibil, cu mentiunea ca lucrez la o p
 In textul de mai jos sunt tratate urmatoarele aspecte:
 1.	Aparitia si evolutia culturii Hip Hop. [Cele 5 elemente si Ideologia culturii Hip Hop](elemente-ideologie.md)
 2.	[Ideologia culturii Hip Hop](ideologie.md) si ce valoare are ea pentru educatie si pedagogie 
-3.	Metode didactice din pedagogia Hip Hop. Exemple 
+3.	[Metode didactice din pedagogia Hip Hop](metode-didactice.md) Exemple 
 4.	Surse de inspiratie pentru acest text

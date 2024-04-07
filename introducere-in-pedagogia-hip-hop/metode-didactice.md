@@ -12,15 +12,15 @@ Tanarul artist Psihotrop si comentariile sale in format rap ale operelor literar
 
 In 2017 rapper-ul Omu Gnom Scoala de rap curs de scris, ritm si teorie lirica
 
- DJ-ul xxxx a mers intr-o serie de scoli si le-a explicat copiilor cum sa utilizeze un pickup si i-a introdus in tehnicile de DJ-ing.
+DJ-ul xxxx a mers intr-o serie de scoli si le-a explicat copiilor cum sa utilizeze un pickup si i-a introdus in tehnicile de DJ-ing.
 
-    Hip Hop Dolj
+Hip Hop Dolj
 
-    In 2020, mai multi artisti stradali au realizat picturi murale (o forma care deriva tot din graffiti) pe peretii Liceului de Arte Vizuale din Cluj-Napoca, in cadrul proiectului “Arta in curtea scolii”.
+In 2020, mai multi artisti stradali au realizat picturi murale (o forma care deriva tot din graffiti) pe peretii Liceului de Arte Vizuale din Cluj-Napoca, in cadrul proiectului “Arta in curtea scolii”.
 
-	Din comentariile de pe YouTube la unele din piesele rapper-ului Cedry2k, deduce faptul ca unii profesori de religie se foloses de piesele de rap ale acestuia. Cedry2K, care a avut numeroase activitati pedagogice in diverse licee din tara, in care a discutat cu elevii despre atitudinea sa fata de politica, droguri, societate etc. In cele mai multe cazuri accesul catre scoli a fost facut de asociatii diverse de studenti in Teologie. De altfel, Cedry2k este pana la ora actuala singurul rapper despre care exista un articol stiintific scris de o cercetatoare din Romania, institutlat: 
+Din comentariile de pe YouTube la unele din piesele rapper-ului Cedry2k, deduce faptul ca unii profesori de religie se foloses de piesele de rap ale acestuia. Cedry2K, care a avut numeroase activitati pedagogice in diverse licee din tara, in care a discutat cu elevii despre atitudinea sa fata de politica, droguri, societate etc. In cele mai multe cazuri accesul catre scoli a fost facut de asociatii diverse de studenti in Teologie. De altfel, Cedry2k este pana la ora actuala singurul rapper despre care exista un articol stiintific scris de o cercetatoare din Romania, institutlat: 
 
-    Interesant si important de stiut este si faptul ca in Romania exista un adevarat val de scoli de dans Hip Hop pentru copii si tineri. 
+Interesant si important de stiut este si faptul ca in Romania exista un adevarat val de scoli de dans Hip Hop pentru copii si tineri. 
 
 Toate aceste exemple ilustreaza cum cultura Hip Hop este prezenta intre timp si in diverse contexte pedagogie in Romania, chiar daca pana acum doar punctual. 
 Conceptul de pedagogie Hip Hop nu este insa pentru oricine. Este binevenit ori “indicat” ca pedagogul in cauza dispune de resurse personale cum ar fi: creativitate, motivatia de a include educatia culturala in modul de predare, o minte deschisa, curajoasa sa adreseze si subiecte considerate tabu in curricula scolara, deschiderea fata un de un limbaj colocvial (pastrand bineinteles formele de politete din scoala).

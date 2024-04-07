@@ -4,4 +4,4 @@ Hello world! This website is under construction
 - [insta](https://www.instagram.com/hiphopeduro/)
 - [projects](hip-hop-projects-romania.md)
 - [despre cultura hip hop](ce-este-cultura-hip-hop.md)
-- [documentare video](documentare)
+- [documentare video](documentare/index.md)

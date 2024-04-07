@@ -39,3 +39,6 @@ body {
 a {
 	color: var(--c-link);
 }
+ol {
+	background-color: coral;
+}

@@ -1,4 +1,4 @@
-This is a website for [hophopeduro](https://hophopeduro.github.io).
+This is a website for [hiphopeduro](https://hiphopeduro.github.io).
 
 The website is build with [github
 pages](https://docs.github.com/en/pages), which uses the [jekyll
@@ -19,8 +19,8 @@ To work on the website's content.
 See this
 [docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
-# How to customize the theme (CSS styles and HTML markup)
+# How to customize the theme
 See this
-[docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
-
+[docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+for CSS styles and HTML markup customization.
 

@@ -21,6 +21,7 @@ body {
 	max-width: var(--s-container);
 	padding: var(--s);
 	margin: 0;
+	width: 100%;
 }
 
 a {

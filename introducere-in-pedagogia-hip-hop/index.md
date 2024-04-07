@@ -8,7 +8,7 @@ Textul de fata ofera o introducere scurta in acest concept si se adreseaza publi
 In Romania exista initiative pedagogice Hip Hop, insa la momentul actual vorbim despre proiecte punctuale, care nu primesc inca atentia pe care ar merita-o. In plus, nu exista inca literatura de specialitate in limba romana si probabil pedagogia Hip Hop nu este subiect de discutie nici in institutii, nici in cancelarie, doar in cazuri exceptionale.
 Am incercat sa scriu un text cat de scurt posibil, cu mentiunea ca lucrez la o platforma online in care o sa tratez materia pe larg. Nu este un text stiintific, prin urmare nici limbajul ales nu este unul academic. Sursele de inspiratie sunt diverse: articole si lucrari stiintifice din literatura vestica de specialitate, experienta practica din activitatea mea de pedagog social intr-un ONG in Berlin (din 2012 pana in prezent), material video din mediul online distribuit pe platforme educationale s.a..  
 In textul de mai jos sunt tratate urmatoarele aspecte:
-1.	Aparitia si evolutia culturii Hip Hop. Cele 5 elemente si Ideologia culturii Hip Hop
+1.	Aparitia si evolutia culturii Hip Hop. [Cele 5 elemente si Ideologia culturii Hip Hop](elemente-ideologie.md)
 2.	Ideologia culturii Hip Hop si ce valoare are ea pentru educatie si pedagogie 
 3.	Metode didactice din pedagogia Hip Hop. Exemple 
 4.	Surse de inspiratie pentru acest text

@@ -43,12 +43,12 @@
 					<small>
 						© <a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
 					</small>
+					{% if site.description %}
+					<i>
+						{{ site.description }}
+					</i>
+					{% endif %}
 				</p>
-				{% if site.description %}
-				<p>
-					{{ site.description }}
-				</p>
-				{% endif %}
 			</footer>
 			<script src="{{ "/assets/js/index.js" | relative_url }}"></script>
 	</body>

@@ -70,7 +70,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-	color: var(--c-text);
+	color: var(--c-fg);
 	text-decoration: underline;
 }
 h1 {
@@ -112,5 +112,6 @@ body > header menu a {
 	padding: var(--s);
 	margin: calc(var(--s) / 2);
 	background-color: var(--c-theme);
+	color: var(--c-fg);
 	display: inherit;
 }

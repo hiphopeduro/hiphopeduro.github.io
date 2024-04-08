@@ -57,9 +57,10 @@ body > header menu {
 	display: flex;
 	flex-wrap: wrap;
 	list-style: none;
-	:is(a) {
-		padding: var(--s);
-	}
+	padding: 0;
+}
+body > header menu a {
+	padding: var(--s);
 }
 
 ul,

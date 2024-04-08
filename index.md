@@ -1,7 +1,6 @@
-Hello world! This website is under construction
+> Norok! This website is under construction…
 
-# Pajini
-
+# Pagini
 - [Cui i se adreseaza aceasta pagina](about.md)
 - [Introducere in pegagogia hip hop](introducere-in-pedagogia-hip-hop)
 - [Cele 5 elemente si ideologia hip hop](introducere-in-pedagogia-hip-hop/elemente-ideologie.md)
@@ -11,5 +10,4 @@ Hello world! This website is under construction
 - [Literatura](literatura/index.md)
 
 # Retele de socializare
-
 - [Instagram](https://www.instagram.com/hiphopeduro/)

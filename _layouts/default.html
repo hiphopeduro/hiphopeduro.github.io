@@ -21,10 +21,10 @@
 				{% if site.menu %}
 				<menu>
 					<li>
-						<a href="{{ "/" | absolute_url }}">Homepage</a>
+						<a href="{{ "/" | relative_url }}">Homepage</a>
 					</li>
 					<li>
-						<a href="{{ "/about.html" | absolute_url }}">About</a>
+						<a href="{{ "/about.html" | relative_url }}">About</a>
 					</li>
 				</menu>
 				{% endif %}
@@ -37,7 +37,7 @@
 			<footer>
 				<p>
 					<small>
-						© <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
+						© <a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
 					</small>
 				</p>
 				{% if site.description %}

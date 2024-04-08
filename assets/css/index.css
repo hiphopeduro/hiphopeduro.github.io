@@ -101,13 +101,9 @@ body > header menu {
 	flex-wrap: wrap;
 	list-style: none;
 	padding: 0;
+	margin: 0;
+	background-color: var(--c-theme);
 }
 body > header menu a {
 	padding: var(--s);
-}
-
-ul,
-ol {
-	padding: calc(var(--s) * 4);
-	background-color: var(--c-theme);
 }

@@ -1,3 +1,7 @@
-This website is about hiphop education.
+---
+title: Despre
+---
 
-Learn more soon
+Acest site este despre educația hiphop.
+
+Află mai multe în curând.

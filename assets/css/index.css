@@ -14,6 +14,7 @@
 	--s-font-h5: var(--s-font);
 	--s-font-h6: var(--s-font);
 	--c-bg: darkgray;
+	--c-bg-alt: linen;
 	--c-fg: black;
 	--c-link:black;
 	--c-theme: coral;
@@ -58,9 +59,13 @@ a[href^="https://"]::after {
 	vertical-align: super;
 	font-size: var(--s-font-s1);
 }
-
 small {
 	font-size: var(--s-font-s1);
+}
+blockquote {
+	margin: var(--s);
+	padding: var(--s);
+	background-color: var(--c-bg-alt);
 }
 
 /* links inside titles have the color of the text */
@@ -74,29 +79,31 @@ h6 a {
 	text-decoration: underline;
 }
 h1 {
-		font-size: var(--s-font-h1);
+	font-size: var(--s-font-h1);
 }
 h2 {
-		font-size: var(--s-font-h2);
+	font-size: var(--s-font-h2);
 }
 h3 {
-		font-size: var(--s-font-h3);
+	font-size: var(--s-font-h3);
 }
 h4 {
-		font-size: var(--s-font-h4);
+	font-size: var(--s-font-h4);
 }
 h5 {
-		font-size: var(--s-font-h5);
+	font-size: var(--s-font-h5);
 }
 h6 {
-		font-size: var(--s-font-h6);
+	font-size: var(--s-font-h6);
 }
 
 /* principal layout elements of the page */
 body > header {
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: space-between;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	position: sticky;
+	top: 0;
 }
 body > header h1 {
 	margin: 0;

@@ -102,8 +102,9 @@ body > header menu {
 	list-style: none;
 	padding: 0;
 	margin: 0;
-	background-color: var(--c-theme);
 }
 body > header menu a {
 	padding: var(--s);
+	margin: calc(var(--s) / 2);
+	background-color: var(--c-theme);
 }

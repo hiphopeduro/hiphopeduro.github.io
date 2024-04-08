@@ -57,6 +57,9 @@ h6 a {
 }
 
 /* principal layout elements of the page */
+body > header h1 {
+		margin: 0;
+}
 body > header menu {
 	display: flex;
 	flex-wrap: wrap;

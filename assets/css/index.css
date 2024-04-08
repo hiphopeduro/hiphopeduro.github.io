@@ -5,6 +5,14 @@
 	--font-family: "Montserrat", sans-serif;
 	--s: 0.5rem;
 	--s-container: 70rem;
+	--s-font: 1rem;
+	--s-font-s1: 0.8rem;
+	--s-font-h1: 1.8rem;
+	--s-font-h2: 1.6rem;
+	--s-font-h3: 1.4rem;
+	--s-font-h4: 1.2rem;
+	--s-font-h5: var(--s-font);
+	--s-font-h6: var(--s-font);
 	--c-bg: darkgray;
 	--c-fg: black;
 	--c-link:darkmagenta;
@@ -44,6 +52,16 @@ a {
 	color: var(--c-link);
 	text-decoration: none;
 }
+a[href^="http://"]::after,
+a[href^="https://"]::after {
+	content: "➶";
+	vertical-align: super;
+	font-size: var(--s-font-s1);
+}
+
+small {
+	font-size: var(--s-font-s1);
+}
 
 /* links inside titles have the color of the text */
 h1 a,
@@ -55,10 +73,28 @@ h6 a {
 	color: var(--c-text);
 	text-decoration: underline;
 }
+h1 {
+		font-size: var(--s-font-h1);
+}
+h2 {
+		font-size: var(--s-font-h2);
+}
+h3 {
+		font-size: var(--s-font-h3);
+}
+h4 {
+		font-size: var(--s-font-h4);
+}
+h5 {
+		font-size: var(--s-font-h5);
+}
+h6 {
+		font-size: var(--s-font-h6);
+}
 
 /* principal layout elements of the page */
 body > header h1 {
-		margin: 0;
+	margin: 0;
 }
 body > header menu {
 	display: flex;

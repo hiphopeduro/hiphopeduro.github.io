@@ -1,20 +1,23 @@
+/* register variables on the top level root html element */
 :root {
 	--line-height: 1.6;
 	--font-size: 17px;
 	--font-family: "Montserrat", sans-serif;
 	--c-bg: darkgray;
 	--c-fg: black;
-	--c-link:black;
+	--c-link:darkmagenta;
 	--s: 0.5rem;
 	--s-container: 70rem;
 }
 
+/* universal box-sizing for easier box-model */
 *,
 *::before,
 *::after {
 	box-sizing: border-box;
 }
 
+/* root elements */
 html {
 	color: var(--c-fg);
 	background-color: var(--c-bg);
@@ -28,7 +31,6 @@ html {
 	flex-direction: column;
 	align-items: center;
 }
-
 body {
 	max-width: var(--s-container);
 	padding: var(--s);
@@ -36,8 +38,20 @@ body {
 	width: 100%;
 }
 
+/* html elements defaults */
 a {
 	color: var(--c-link);
+	text-decoration: none;
+}
+h1 a {
+	color: var(--c-text);
+}
+
+/* principal layout elements of the page */
+body > header nav {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
 }
 ol {
 	padding: 2rem;

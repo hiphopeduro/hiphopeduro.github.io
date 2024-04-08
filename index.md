@@ -1,13 +1,17 @@
 > scuze! Acest site este în construcție…
 
 # Pagini
-- [Cui i se adreseaza aceasta pagina](about.md)
+- [About](about.md)
+- [Cui i se adreseaza aceasta pagina](cui-adreseaza-pagina.md)
 - [Introducere in pegagogia hip hop](introducere-in-pedagogia-hip-hop)
-- [Cele 5 elemente si ideologia hip hop](introducere-in-pedagogia-hip-hop/elemente-ideologie.md)
-- [Exemple de proiecte](hip-hop-projects-romania.md)
+- [Aparitia si evolutia culturii. Cele 5 elemente din hip hop](introducere-in-pedagogia-hip-hop/elemente-ideologie.md)
+- [Ce valoare are cultura hip hop pentru educatie si pedagogie](valoare-pentru-educatie.md)
+- [Metode didactice. Exemple de proiecte](hip-hop-projects-romania.md)
 - [Despre cultura hip hop](ce-este-cultura-hip-hop.md)
-- [Documentare video](documentare/index.md)
-- [Literatura](literatura/index.md)
+- [Materiale video](documentare/index.md)
+- [Literatura de specialitate](literatura/index.md)
+- [Haideti sa discutam online](discutie-online.md)
+- [Contact](contact.md)
 
 # Retele de socializare
 - [Instagram](https://www.instagram.com/hiphopeduro/)

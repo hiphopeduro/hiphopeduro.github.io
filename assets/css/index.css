@@ -15,8 +15,9 @@
 	--s-font-h6: var(--s-font);
 	--c-bg: darkgray;
 	--c-fg: black;
-	--c-link:darkmagenta;
+	--c-link:black;
 	--c-theme: coral;
+	--c-theme-alt: darkmagenta;
 }
 
 /* universal box-sizing for easier box-model */
@@ -50,7 +51,6 @@ body {
 /* html elements defaults */
 a {
 	color: var(--c-link);
-	text-decoration: none;
 }
 a[href^="http://"]::after,
 a[href^="https://"]::after {
@@ -93,6 +93,11 @@ h6 {
 }
 
 /* principal layout elements of the page */
+body > header {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+}
 body > header h1 {
 	margin: 0;
 }
@@ -107,4 +112,5 @@ body > header menu a {
 	padding: var(--s);
 	margin: calc(var(--s) / 2);
 	background-color: var(--c-theme);
+	display: inherit;
 }

@@ -45,11 +45,15 @@ a {
 	text-decoration: none;
 }
 
-:is(h1, h2, h3, h4, h5, h6) {
-		/* links inside titles have the color of the text */
-		:is(a) {
-				color: var(--c-text);
-		}
+/* links inside titles have the color of the text */
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+	color: var(--c-text);
+	text-decoration: underline;
 }
 
 /* principal layout elements of the page */

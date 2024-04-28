@@ -1,6 +1,6 @@
 > Salut! Esti gata sa descoperi o noua abordare pedagogica inspirata din cultura Hip Hop?
 
-# Pagini
+# Descopera pas cu pas despre ce este vorba
 - [About](about.md)
 - [Cui i se adreseaza aceasta pagina](cui-adreseaza-pagina.md)
 - [Aparitia si evolutia culturii. Cele 5 elemente din hip hop](aparitia-evolutia-culturii.md)

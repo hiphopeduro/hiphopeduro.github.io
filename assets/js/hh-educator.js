@@ -31,7 +31,8 @@ export default class HHEducator extends HTMLElement {
 		} else {
 			$doms.push(
 				this.createEducatorName(item.name, item.website),
-				this.createEducatorAbout(item.about)
+				this.createEducatorAbout(item.about),
+				this.createEducatorProject(item.project)
 			)
 		}
 		const $article = document.createElement("article")
@@ -53,8 +54,17 @@ export default class HHEducator extends HTMLElement {
 		return $name
 	}
 	createEducatorAbout(about) {
-		const $about = document.createElement("p")
-		$about.textContent = about
-		return $about
+		if (about) {
+			const $about = document.createElement("p")
+			$about.textContent = about
+			return $about
+		}
+	}
+	createEducatorProject(project) {
+		if (project) {
+			const $project = document.createElement("p")
+			$project.textContent = project
+			return $project
+		}
 	}
 }

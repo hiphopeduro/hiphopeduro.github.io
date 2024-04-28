@@ -24,19 +24,14 @@ export default class HHEducator extends HTMLElement {
 	async connectedCallback() {
 		this.render(this.item);
 	}
-	render(item) {
-		const $doms = []
-		if (!item) {
-			$doms.push("This educator item seems broken.")
-		} else {
-			$doms.push(
-				this.createEducatorName(item.name, item.website),
-				this.createEducatorAbout(item.about),
-				this.createEducatorProject(item.project)
-			)
-		}
+	render({name, website, about, project}) {
+		const $doms = [
+			this.createEducatorName(name, website),
+			this.createEducatorAbout(about),
+			this.createEducatorProject(project)
+		]
 		const $article = document.createElement("article")
-		$article.append(...$doms)
+		$article.append(...$doms.filter(dom => !!dom))
 		this.replaceChildren($article)
 	}
 	createEducatorName(name, website) {

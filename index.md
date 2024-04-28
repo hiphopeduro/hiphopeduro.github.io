@@ -9,7 +9,6 @@
 - [Metode didactice. Exemple de proiecte](metode-didactice-exemple.md)
 - [Materiale video](documentare/index.md)
 - [Literatura de specialitate](literatura/index.md)
-- [Haideti sa discutam online](discutie-online.md)
 - [Contact](contact.md)
 
 # Retele de socializare

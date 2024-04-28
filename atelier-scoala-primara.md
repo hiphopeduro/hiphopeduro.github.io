@@ -1,1 +1,0 @@
-Atelierul a avut diverse etape.

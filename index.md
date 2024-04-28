@@ -1,4 +1,4 @@
-> Salut! Acest site este în construcție…
+> Salut! Esti gata sa descoperi o noua abordare pedagogica inspirata din cultura Hip Hop?
 
 # Pagini
 - [About](about.md)

@@ -1,28 +1,9 @@
-/* serialzie from google spreadhseet column to nice JSON for nic HTML markup */
-const serializeEducator = (rawItem = {}) => {
-	/* before serialization */
-	const {
-		["Name"]: name,
-		["About"]: about,
-		["Project"]: project,
-		["Website"]: website,
-		["Presa"]: presa,
-		["Interviu video"]: interview,
-	} = rawItem
-
-	/* after serialization */
-	const item = { name, about, project, website, presa }
-
-	console.info("rawItem/item", rawItem, item)
-	return item
-}
-
-export default class HHEducator extends HTMLElement {
-	get item() {
-		return serializeEducator(JSON.parse(this.getAttribute("item")))
+export default class Educator extends HTMLElement {
+	get data() {
+		return JSON.parse(this.getAttribute("data"))
 	}
 	async connectedCallback() {
-		this.render(this.item);
+		this.render(this.data);
 	}
 	render({name, website, about, project}) {
 		const $doms = [

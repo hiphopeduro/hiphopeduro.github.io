@@ -147,6 +147,11 @@ body > header menu a {
 	color: var(--c-fg);
 	display: inherit;
 }
+body > main {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+}
 
 /* ol map */
 ol-map,

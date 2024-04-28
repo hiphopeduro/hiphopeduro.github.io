@@ -6,7 +6,7 @@
 - [Aparitia si evolutia culturii. Cele 5 elemente din hip hop](aparitia-evolutia-culturii.md)
 - [Ce valoare are cultura hip hop pentru educatie si pedagogie](valoare-pentru-educatie.md)
 - [Exemple de proiecte. Metode didactice](metode-didactice-exemple.md)
-- [Reteaua de educatori Hip Hop din Romania](reteaua-educatori.md)
+- [Reteaua de educatori Hip Hop din Romania](tabel-educatori.md)
 - [Surse documentatie](surse-documentatie.md)
 - [Contact](contact.md)
 

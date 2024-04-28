@@ -106,8 +106,8 @@ body > header {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	position: sticky;
-	top: 0;
+	/* position: sticky; */
+	/* top: 0; */
 }
 body > header h1 {
 	margin: 0;

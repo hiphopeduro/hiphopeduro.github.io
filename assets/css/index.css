@@ -89,6 +89,10 @@ blockquote {
 	background-color: var(--c-bg-alt);
 }
 
+img {
+	max-width: 100vw;
+}
+
 ul li,
 ol li {
 		margin-bottom: calc(var(--s) / 2);

@@ -12,6 +12,14 @@ Intr-un proiect de preventie in care lucrez cu elevi dintr-un cartier vulnerabil
   
 In acest fel au fost antrenate mai multe competente sociale: munca in echipa, spiritul de cooperare, abilitati de comunicare, increderea in fortele proprii, rabdare si concentrare, precum si alte abilitati, cum ar fi cele lingvistice, sportive, muzicale si tehnologice (la jocul de gasit rime copiii au lucrat independent cu tablete si cu o pagina de internet cu rime). La toate acestea se adauga buna dispozitie in care au lucrat copii si emotiile pozitive pe care le-au luat cu ei acasa. POZA Reimenübung Lichtenberg
 
+## Atelier de rap cu adolescenti si LMNZ, rapper/producator (2021)
+
+bdsDBJSBASS
+
+## Atelier de rap cu copii din scoala primara cu Leila, rapper (2018)
+
+cssadssa
+
 ## Cateva ganduri despre pedagogul Hip Hop
 
 Conceptul de pedagogie Hip Hop nu este insa pentru oricine. Este binevenit ori “indicat” ca pedagogul in cauza dispune de resurse personale cum ar fi: creativitate, motivatia de a include educatia culturala in modul de predare, o minte deschisa, curajoasa sa adreseze si subiecte considerate tabu in curricula scolara, deschiderea fata un de un limbaj colocvial (pastrand bineinteles formele de politete din scoala).

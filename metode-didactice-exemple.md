@@ -2,7 +2,7 @@
 
 Fiind un [domeniu]() relativ recent, nu exista manuale standardizate cu metode didactice specifice pedagogiei Hip Hop. Pe de alta parte, in literatura de specialitate incep sa apara lucrari care colecteaza cele mai bune practici, metode si exemple de proiecte. In practica, pedagogii care sunt familiarizati intr-o oarecare masura cu ceea ce inseamna Hip Hop-ul, poate pentru ca ei insisi sunt consumatori ai culturii, gasesc metodele potrivite in lucrul cu tinerii, in limita creativitatii proprii si a resurselor care le stau la dispozitie. 
 
-## Atelier de Hip Hop cu elevi dinn scoala primara (2024)
+## Atelier de Hip Hop cu elevi din scoala primara (2024)
 
 Intr-un alt proiect in care lucrez cu copii sub 12 ani, am organizat un atelier de Hip Hop de 2 zile cu un program divers: o introducere in istoria Hip Hop-ului printr-un film documentar, exercitii si jocuri de dictie, jocuri in echipa de gasit rime potrivite, jocuri de echipa, exercitii de body acoustic si exercitii de dans, discutie in grup despre piesele rap preferate ale copiilor.
 

@@ -1,0 +1,1 @@
+![](./media/educators/metode-didactice/atelier-hip-hop-1.jpg)![](./media/educators/metode-didactice/atelier-hip-hop2.jpg)

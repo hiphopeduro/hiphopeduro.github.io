@@ -7,6 +7,7 @@
 - [Ce valoare are cultura hip hop pentru educatie si pedagogie](valoare-pentru-educatie.md)
 - [Exemple de proiecte. Metode didactice](metode-didactice-exemple.md)
 - [Reteaua de educatori Hip Hop din Romania](tabel-educatori.md)
+- [Educatori Hip Hip din Romania. Exemple](educatori.md)
 - [Surse documentatie](surse-documentatie.md)
 - [Contact](contact.md)
 

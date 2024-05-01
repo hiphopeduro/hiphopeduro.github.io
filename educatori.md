@@ -12,5 +12,5 @@ https://djundoo.ro/
 Omu Gnom este rapper producator si scrie de cand se stie, asa ne explica pe pagina lui de artist. Face conscious rap, “adică rap care vorbește despre ființă cu tot ce are ea, cap-minte, inimă-suflet”. A lansat “cam 20 de albume” in cariera sa, “ceea ce nu e rău pentru visul unui copil venit dintr-un cartier mărginaș al capitalei”: Mulți sunt încă acolo, fă orice glumă vrei/Dar cum să ajungă tabăra undeva când toți stăteam în drumul ei? ((Omu Gnom ~ DJ Undoo – Visul unui copil). In 2016 Omu Gnom a conceput cursul de scris, ritm si teorie lirica A.R.T.A. (Atitudine, Răbdare, Tehnică, Ambiție), în care participanții explorează pe parcursul a 8 lectii teoria lirică, cu aplicabilitate directă în rap, elemente de bază ale ritmului, dicția corectă, atitudine și scris. Cursul s-a derulat mai multi ani la rand iar despre ce se invata acolo, Gnom zice: “O sa invete sa gandeasca in rime si, mai mult, o sa invete sa fie oameni intre ei. Sa fie o echipa. La cursuri nu vorbim doar de scris, vorbim si despre viata si univers si invatam unii de la altii.“ In fiecare joi seara face emisiune “Muzică de pus pe gânduri” Radio Guerrilla. 
 https://www.omugnom.com 
 
-![](./media/educators/omu-gnom-fb.jpg)
+![](./media/educators/omu-gnom-fb-size-changed.jpg)
 

@@ -5,6 +5,9 @@ Fiind un [domeniu]() relativ recent, nu exista manuale standardizate cu metode d
 ## Atelier de Hip Hop cu elevi din scoala primara (2024)
 
 Intr-un alt proiect in care lucrez cu copii sub 12 ani, am organizat un atelier de Hip Hop de 2 zile cu un program divers: o introducere in istoria Hip Hop-ului printr-un film documentar, exercitii si jocuri de dictie, jocuri in echipa de gasit rime potrivite, jocuri de echipa, exercitii de body acoustic si exercitii de dans, discutie in grup despre piesele rap preferate ale copiilor.
+- [Poze de la atelier](atelier-hip-hop24.md)
+
+![](./media/educators/metode-didactice/atelier-hip-hop-1.jpg)![](./media/educators/metode-didactice/atelier-hip-hop2.jpg)
 
 ## Slam poem (lirica) intr-un proiect de preventie cu elevi din scoala primara (2024)
 
@@ -28,4 +31,3 @@ Privind Pledez pentru o integrare a pedagogiei Hip Hop in mediul educational din
 Pedagogia Hip Hop este un concept transformative si in cee ace priveste relatia elev-profesor.
 
 - [Atelier hip hip in scoala primara](atelier-scoala-primara.md)
-- [Flori de gheto](https://www.facebook.com/FloriDeGhetou)

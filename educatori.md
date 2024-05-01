@@ -20,3 +20,14 @@ Omu Gnom este rapper producator si scrie de cand se stie, asa ne explica pe pagi
 
 
 ## Psihotrop
+
+Tanarul artist Psihotrop si comentariile sale in format rap ale operelor literare pentru bacalaureat au fost o senzatie intre 2017- 2019
+
+## Proiectul “Flori De Ghetou” (2022)
+
+Proiectul “Flori De Ghetou” a oferit in 2022 copiilor din 2 centre de plasament din Cluj-Napoca o experienta autentica a culturii Hip Hop printr-o serie de workshop-uri, in special de dans.
+
+Din comentariile de pe YouTube la unele din piesele rapper-ului Cedry2k, deduce faptul ca unii profesori de religie se foloses de piesele de rap ale acestuia. Cedry2K, care a avut numeroase activitati pedagogice in diverse licee din tara, in care a discutat cu elevii despre atitudinea sa fata de politica, droguri, societate etc. In cele mai multe cazuri accesul catre scoli a fost facut de asociatii diverse de studenti in Teologie. De altfel, Cedry2k este pana la ora actuala singurul rapper despre care exista un articol stiintific scris de o cercetatoare din Romania, institutlat: 
+
+Interesant si important de stiut este si faptul ca in Romania exista un adevarat val de scoli de dans Hip Hop pentru copii si tineri.
+

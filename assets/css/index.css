@@ -109,6 +109,7 @@ h6 a {
 }
 h1 {
 	font-size: var(--s-font-h1);
+	color: #247790ed;
 }
 h2 {
 	font-size: var(--s-font-h2);
